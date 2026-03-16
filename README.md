@@ -111,12 +111,12 @@ Then open `http://localhost:3000` in your browser to access the web dashboard.
 
 ## ✨ Features
 
-- 🔁 **Multi-session** — run multiple WhatsApp accounts simultaneously
-- 🔄 **Auto-update** — pulls latest changes from GitHub automatically
-- 🌐 **Web dashboard** — pair sessions, manage settings and play games via browser
-- 🧩 **Plugin system** — easily extend with custom commands
-- 🛡️ **Anti-delete / Anti-edit** — catch deleted and edited messages
-- 📊 **Lightweight** — optimised for low-memory environments
+- 🔁 **Multi-session**: run multiple WhatsApp accounts simultaneously
+- 🔄 **Auto-update**: pulls latest changes from GitHub automatically
+- 🌐 **Web dashboard**: pair sessions, manage settings and play games via browser
+- 🧩 **Plugin system**: easily extend with custom commands
+- 🛡️ **Anti-delete / Anti-edit**: catch deleted and edited messages
+- 📊 **Lightweight**: optimised for low-memory environments
 
 ---
 
